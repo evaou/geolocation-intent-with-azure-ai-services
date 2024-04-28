@@ -80,6 +80,7 @@ To have a ready Conversational Language Understanding model, this solution is re
 
 ## <a name='DemoSetup'></a>Demo Setup
 
+1. Create an Azure Maps service
 1. Create an Azure AI Speech service
 1. Create an Azure AI Language service, which will create an Azure AI Search service automatically
 1. Create a Conversational Language Understanding project, train the model, and deploy the model in Azure AI Language studio
