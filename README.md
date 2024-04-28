@@ -84,7 +84,12 @@ To have a ready Conversational Language Understanding model, this solution is re
 1. Create an Azure AI Language service, which will create an Azure AI Search service automatically
 1. Create a Conversational Language Understanding project, train the model, and deploy the model in Azure AI Language studio
 1. Set the values in appsettings.json
-1. Run GeolocationIntent or IntentRecognition projects
+1. Open GeolocationIntent.sln or IntentRecognition.sln in Visual Studio 2022
+1. In Solution Explorer, right click Solution and run the following steps in order
+	1. Clean Solution
+	1. Restore Nuget Packages
+	1. Build Solution
+1. Start Debugging GeolocationIntent or IntentRecognition
 
 ## <a name='Reference'></a>Reference
 
