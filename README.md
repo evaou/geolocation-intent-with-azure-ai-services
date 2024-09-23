@@ -18,7 +18,7 @@
 
 ## <a name='WhatsGeolocationIntentservice'></a>What's Geolocation Intent service?
 
-Geolocation Intent service is a total solution, which takes user's target geolocation as input, such as landmarks or point of interest. The service can recognize user's intent and then acquire intent-related and user-desired additional information. Finally, geolocation intent service generates an intelligent suggestion with all collected information for users to make a better decision.
+Geolocation Intent service is a total solution, which takes the user's target geolocation as input, such as landmarks or points of interest. The service can recognize the user's intent and then acquire intent-related and user-desired additional information. Finally, geolocation intent service generates an intelligent suggestion with all collected information for users to make a better decision.
 
 ### <a name='Architecture'></a>Architecture
 
@@ -26,7 +26,7 @@ Geolocation Intent service is a total solution, which takes user's target geoloc
 
 ## <a name='WhendoweneedGeolocationIntentservice'></a>When do we need Geolocation Intent service?
 
-Here come a scenario to help us understand the demand and then a demo to show how Geolocation Intent service can support us.
+Here comes a scenario to help us understand the demand and then a demo to show how Geolocation Intent service can support us.
 
 ### <a name='Scenario'></a>Scenario
 
